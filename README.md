@@ -3,7 +3,7 @@
 When you have no ssh access, it's realy hard to make a backup of your all configuration. 
 So with this script, you can make a simple backup of your all prestashop.
 
-#Installation
+# Installation
 
 Put the backup.php on your root folder, uncomments lines commented (remove all "//").
 Open your browser and go to http://yourwebsite/backup.php (replace "yourwebsite" by your website uri)
@@ -17,7 +17,7 @@ DELETE THE FILE ONCE YOU HAVE DONE !!
 # prestaBackup FR
 Il est très difficile de faire un backup de votre boutique Prestashop quand vous n'avez pas d'accès SSH. Avec ce script, vous pouvez sauvegarder votre boutique entièrement sans passer par le SSH.
 
-#Installation
+# Installation
 
 Téléchargez le fichier backup.php dans la racine de votre site (avec un logiciel FTP),
 pensez à décommenter les lignes commençant par '//' (supprimez les "//")
