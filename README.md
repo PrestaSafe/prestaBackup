@@ -27,6 +27,4 @@ Attendez que le processus soit terminé et vous pouvez télécharger l'archive w
 
 SUPPRIMEZ LE FICHIER UNE FOIS LA MANIPULATION FAITE !!
 
-Put the backup.php on your root folder, uncomments lines commented (remove all "//").
-Open your browser and go to http://yourwebsite/backup.php (replace "yourwebsite" by your website uri)
-
+Ce script vous est offert par votre <a href="https://base2code.com">développeur Prestashop</a>
