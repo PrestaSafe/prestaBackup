@@ -27,4 +27,4 @@ Attendez que le processus soit terminé et vous pouvez télécharger l'archive w
 
 SUPPRIMEZ LE FICHIER UNE FOIS LA MANIPULATION FAITE !!
 
-Ce script vous est offert par votre <a href="https://base2code.com">développeur Prestashop</a>
+Ce script vous est offert par votre <a href="https://www.prestasafe.com">Spécialiste Prestashop</a>
